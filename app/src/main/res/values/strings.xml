@@ -5,4 +5,14 @@
     <string name="superHeroTVText">Super Heros in the area:</string>
 
 
+    <string-array name="locationArea">
+        <item>North</item>
+        <item>South</item>
+        <item>East</item>
+        <item>West</item>
+
+
+
+    </string-array>
+
 </resources>

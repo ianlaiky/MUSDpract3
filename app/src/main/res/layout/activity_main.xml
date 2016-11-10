@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:text="@string/locationTVText" />
 
-    <Spinner
+    <ListView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:id="@+id/spLocations"
